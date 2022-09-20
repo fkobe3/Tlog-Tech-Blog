@@ -44,4 +44,4 @@ npm start
 ```
 
 ## Questions
-Any questions or feedback regarding this project can be sent directly to my [email](mailto:fkobe3@gmail.com), or through github, my username is fkobe3.
+Any questions or feedback regarding this project can be sent directly to my email, fkobe3@gmail.com, or through github, my username is fkobe3.
