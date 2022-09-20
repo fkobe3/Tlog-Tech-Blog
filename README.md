@@ -5,23 +5,20 @@ Tech Blog is proof of concept challenge project for UC Berkeley bootcamp. The re
 * [Installation Requirements](#install)
 * [NPM Packages Used](#npm)
 * [Application Usage](#usage)
-* [Tests](#tests)
 * [Questions](#questions)
 
-## Preview
-The blog is deployed on Heroku and can be veiwed [here]().
 
 ## <a name=install></a>Installation Requirements
 
 
 ### <a name=npm></a>NPM Packages
-* [mysql2](https://www.npmjs.com/package/mysql2) - MySQL Node.js client
-* [dotenv](https://www.npmjs.com/package/dotenv) - loads environment variables
-* [express](https://expressjs.com/) - web application framework
-* [sequelize](https://www.npmjs.com/package/sequelize) - promise-based Node.js ORM
-* [bcrypt](https://www.npmjs.com/package/bcrypt) - password hashing library
-* [express-handlebars](https://www.npmjs.com/package/express-handlebars) - Handlebars view engine
-* [express-session](https://www.npmjs.com/package/express-session) - express session library
+* mysql2
+* dotenv
+* express
+* sequelize
+* bcrypt
+* express-handlebars
+* express-session
 
 ***
 ## <a name=usage></a>Application Usage
@@ -45,8 +42,6 @@ To run the application, from root use:
 ```
 npm start
 ```
-## Tests
-No tests were completed yet for this application. 
 
 ## Questions
-Any questions or feedback regarding this project can be sent directly to my [email](mailto:). This project and others can be found at my [Github page]('').
+Any questions or feedback regarding this project can be sent directly to my [email](mailto:fkobe3@gmail.com), or through github, my username is fkobe3.
